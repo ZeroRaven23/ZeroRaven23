@@ -4,13 +4,13 @@
 
 - 🌱 I'm learning: **Website development and JavaScript**
 
-- 👨‍💻 All of my projects are available at (https://www.instagram.com/zero_raven23/, and github)
+- 👨‍💻 All of my projects are available at: **(https://www.instagram.com/zero_raven23/, and github)**
 
-- 📫 How to reach me **luizcavina@gmail.com**
+- 📫 How to reach me: **luizcavina@gmail.com**
 
-- 📄 Know about my experiences [Java and Games](Java and Games)
+- 📄 Know about my experiences: **[Java and Games]**
 
-- ⚡ Fun fact **Love games 2d and RTS**
+- ⚡ Games love: **Love games 2d and RTS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
