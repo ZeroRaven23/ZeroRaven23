@@ -1,4 +1,7 @@
 
+<img src="https://media.giphy.com/media/zbTfib1Kh0fn74jp5H/giphy.gif" width="800" height="400" />
+
+
 <h1 align="center">Welcome My Name Zero, our Luiz Gustavo</h1>
 <h3 align="center">I'm from Brazil, currently a game developer</h3>
 
