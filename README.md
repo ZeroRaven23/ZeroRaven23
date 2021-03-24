@@ -4,7 +4,7 @@
 
 - 🌱 I'm learning: **Website development and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/zero_raven23/, and github](https://www.instagram.com/zero_raven23/, and github)
+- 👨‍💻 All of my projects are available at (https://www.instagram.com/zero_raven23/, and github)
 
 - 📫 How to reach me **luizcavina@gmail.com**
 
