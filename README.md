@@ -2,8 +2,10 @@
 <img src="https://media.giphy.com/media/zbTfib1Kh0fn74jp5H/giphy.gif" width="800" height="400" />
 
 
-<h1 align="center">Welcome My Name Zero, our Luiz Gustavo</h1>
-<h3 align="center">I'm from Brazil, currently a game developer</h3>
+<h1 align="center">Welcome // Bem vindo </h1>
+<h2 align="center">My Name Zero, or Luiz Gustavo // Meu nome é zero ou Luiz Gustavo </h2>
+<h3 align="center">I'm from Brazil, currently a game developer // Eu sou do Brasil, atualmente um desenvolvedor de jogos </h3>
+
 
 - 🌱 I'm learning: **Website development and JavaScript** **//** Estou aprendendo: **Desenvolvimento de sites e JavaScript**
 
