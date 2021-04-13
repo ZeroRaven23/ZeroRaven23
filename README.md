@@ -7,15 +7,15 @@
 <h3 align="center">I'm from Brazil, currently a game developer // Eu sou do Brasil, atualmente um desenvolvedor de jogos </h3>
 
 
-- 🌱 I'm learning: **Website development and JavaScript** **//** Estou aprendendo: **Desenvolvimento de sites e JavaScript**
+- 🌱 Estou aprendendo: **Desenvolvimento de sites e JavaScript**
 
-- 👨‍💻 All of my projects are available at: **(https://www.instagram.com/zero_raven23/, and github)** **//** Todos os meus projetos estão disponíveis:**(https://www.instagram.com/zero_raven23/, e github)**
+- 👨‍ Todos os meus projetos estão disponíveis:**(https://www.instagram.com/zero_raven23/, e github)**
 
-- 📫 How to reach me: **luizcavina@gmail.com** **//** Como entrar em contato comigo: **luizcavina@gmail.com**
+- 📫 Como entrar em contato comigo: **luizcavina@gmail.com**
 
-- 📄 Know about my experiences: **[Java, Gamemaker 2 and Games]** **//** Conheça minhas experiências:  **[Java, Jogos e Gamemaker 2 studios]**
+- 📄 Conheça minhas experiências:  **[Java, Jogos e Gamemaker 2 studios]**
 
-- ⚡ Games I love : **Love games 2d and RTS** **//** Jogos que amo: **2D e RTS**
+- ⚡Jogos que amo: **2D e RTS**
 
 <h3 align="left">Connect with me: // Conecte-se comigo: </h3>
 <p align="left">
