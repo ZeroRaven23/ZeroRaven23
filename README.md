@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/IqcUAmm9Lpd1CqYyHr/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/IqcUAmm9Lpd1CqYyHr/giphy.gif" width="400" height="200" />
 
 
 <h1 align="center">Bem vindo </h1>
