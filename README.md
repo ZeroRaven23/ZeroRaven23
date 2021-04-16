@@ -1,11 +1,11 @@
 
-<img src="https://media.giphy.com/media/eCPW6k5ud8J7cnYPQA/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/IqcUAmm9Lpd1CqYyHr/giphy.gif" width="800" height="400" />
 
 
-<h1 align="center">Welcome // Bem vindo </h1>
-<h2 align="center">My Name Zero, or Luiz Gustavo // Meu nome é zero ou Luiz Gustavo </h2>
-<h3 align="center">I'm from Brazil, currently a game developer // Eu sou do Brasil, atualmente um desenvolvedor de jogos </h3>
-
+<h1 align="center">Bem vindo </h1>
+<h2 align="center"Meu nome é zero ou Luiz Gustavo </h2>
+<h3 align="center">Eu sou do Brasil, atualmente um desenvolvedor de jogos </h3>
+<h3 align="center">Pixel arts feitas por mim. </h3>
 
 - 🌱 Estou aprendendo: **Desenvolvimento de sites e JavaScript**
 
