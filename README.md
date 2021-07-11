@@ -29,10 +29,10 @@
 <table align='left'>
   <row>
     <td>
-    <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRaven23-SP&layout=compact&theme=dark'>
+    <img height='150' src='https://github-readme-stats.vercel.app/api?username=ZeroRaven23&show_icons=true&theme=synthwave'>
     </td>
     <td>
-      <img height='150' src='https://github-readme-stats.vercel.app/api?username=ZeroRaven23-SP&show_icons=true&theme=dark'>
+      <img height='150' src='https://github-readme-stats.vercel.app/api?username=ZeroRaven23&show_icons=true&theme=synthwave'>
     </td>
   </row>
 </table>
