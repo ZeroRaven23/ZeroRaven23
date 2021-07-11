@@ -25,3 +25,14 @@
 
 <h3 align="left">Languages and Tools: // Linguagens e Ferramentas </h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<table align='left'>
+  <row>
+    <td>
+    <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-SP&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='150' src='https://github-readme-stats.vercel.app/api?username=Mrrobot-SP&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
